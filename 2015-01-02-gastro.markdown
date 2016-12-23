@@ -21,7 +21,13 @@ We caught up with Ev a day later and so did the gut rumblings. I ignored the sym
 C rescued me, she took me home where I paced between the loo, the sofa and the shower. Eating nothing I spent the day and then the night reading and feeling sorry for myself. 
 
 
-{% img /images/pictures/Tate-and-Lyles-Golden-Syrup-Tin.png 350 'Free novelty biblical lion beehive with every jar' %}   {% img /images/pictures/Bristol_stool_chart.svg.png 350 'Go straight to Type 7' %}
+
+![Free novelty biblical lion beehive with every jar]({{http://tregeagle.com}}/images/pictures/Tate-and-Lyles-Golden-Syrup-Tin.png)]
+
+![Go straight to Type 7]({{http://tregeagle.com}}/images/pictures/Bristol_stool_chart.svg.png)]
+
+
+
 
 
 Lying awake during the night I was remembering a family holiday in Scotland when I was a young boy. 

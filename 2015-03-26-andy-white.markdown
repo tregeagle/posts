@@ -17,7 +17,7 @@ I think he rather fancied himself as a 'WockStah' as he walked down [Six String 
 
 Here is a picture of me in the midst of a depressing and life changing time in 1990-ish.
 
-{% img /images/photos/ruben-ponty.jpg 760 'Ruben depressed in Pontypridd, Wales. Circa 1990-1' %}
+![Ruben depressed in Pontypridd, Wales. Circa 1990-1]({{http://tregeagle.com}}/images/photos/ruben-ponty.jpg)]
 
 I was probably recently returned from or soon to go to one of the many music festivals around at the time. I remember the Fleadh at Finsbury Park and the Féile in Tipperary. I am sure I was listening to Andy White when Neil, Gareth or Lizzy snapped it.
 

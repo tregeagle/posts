@@ -9,9 +9,4 @@ As many of you know my fabtastically hard working partner in crime works at Win'
 
 A wildly popular place which gets very, *very* busy, especially on the weekends. When a queue of customers is waiting to pay or order and the *two* woks are crashing and sizzling away the staff are working flat out to keep up with the rush. The phones are ringing off the hook, it can be really difficult to hear the caller. 
 
-So, here is my advice to the discerning phone order customer, __choose exactly what you want before ringing__. Just to help I have posted a picture of the current menu below. If you find it hard to read [grab the original pdf here](http://utils.tregeagle.com/downloads/winsthai/Wins-Menu.pdf 'Click here to download the easy to read menu' ) or click any of the menu pictures below.
-
-[{% img /images/pictures/page1.png 800 'Page 1 of Win's Thai Kitchen menu' %}](http://utils.tregeagle.com/downloads/winsthai/Wins-Menu.pdf 'Click here to download the easy to read menu' )
-[{% img /images/pictures/page2.png 800 'Page 2 of Win's Thai Kitchen menu' %}](http://utils.tregeagle.com/downloads/winsthai/Wins-Menu.pdf 'Click here to download the easy to read menu' )
-
-[{% img /images/pictures/lotus-flowah.png 100 'Click here to download the easy to read menu' %}](http://utils.tregeagle.com/downloads/winsthai/Wins-Menu.pdf) 
+So, here is my advice to the discerning phone order customer, __choose exactly what you want before ringing__. I uploaded [the menu here](http://utils.tregeagle.com/downloads/winsthai)

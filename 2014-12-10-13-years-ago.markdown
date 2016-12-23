@@ -5,7 +5,9 @@ date: 2014-12-10 17:14:39 +1100
 comments: true
 categories: Family
 ---
-{% img /images/photos/2001-my-family.jpg 760 'Left to right: Joe, Charlie, Zaida, Dan, Georgie and John' %}
+![Left to right: Joe, Charlie, Zaida, Dan, Georgie and John]({{http://tregeagle.com}}/images/photos/2001-my-family.jpg)]
+
+
 Thirteen years ago I missed out on being in this family pic. Next year I hope to complete my Nursing degree and a year after that I hope to complete a Post Grad year. Maybe then I can afford a proper trip home. 
 
 Two more years seems to be so far away right now. 

@@ -13,7 +13,7 @@ After several weeks of intermittent failed attempts I finally managed to get roo
 I pulled up the phone specifications (Settings>About phone) and [searched the net](https://lmddgtfy.net/?q=root+my+kogan+agora+HD+phone).
 
 
-{% img /images/pictures/Agora.png 360 'Settings&gt;About phone' 'Kogan Agora HD+' %}
+![Settings>About phone - Kogan Agora HD+]({{http://tregeagle.com}}/images/pictures/Agora.png)] 
 
 
 > The Phone: 

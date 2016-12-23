@@ -11,30 +11,32 @@ We had lots of fun cycling and walking around the beaches, town and village. I h
 
 I posted some photos on FB, for those that choose not to partake of the electronic crack, here are some of those pics.
 
-{% img /images/photos/Z_Ev_caravanserai.jpg 720 'Home for three weeks' %}
+![Home for three weeks]({{http://tregeagle.com}}/images/photos/Z_Ev_caravanserai.jpg)
 
-{% img /images/photos/Z_Big-Boambee.jpg 360 'A well earned break after climbing 90% of Big Boambee mountain' %}
-{% img /images/photos/Z_bike-crash.jpg 360 'Oopsie-daisy' %}
+![A well earned break after climbing 90% of Big Boambee mountain]({{http://tregeagle.com}}/images/photos/Z_Big-Boambee.jpg)
 
-{% img /images/photos/Z_cows.jpg 360 'Zaida and some old pals' %}
-{% img /images/photos/Z_Ev_coffs-jetty.jpg 360 'Zaida and Evan near Coffs Jetty' %}
+![Oopsie-daisy]({{http://tregeagle.com}}/images/photos/Z_bike-crash.jpg)
 
-{% img /images/photos/Z_C_Sawty-beach.jpg 360 'Cheri and Zaida down Sawty beach' %}
-{% img /images/photos/Z_C_chests-out-grls.jpg 360 'Chest's out girls' %}
+![Zaida and some old pals]({{http://tregeagle.com}}/images/photos/Z_cows.jpg)
 
-{% img /images/photos/Z_R_C_Boambee-hdlnd.jpg 720 'Charlie's Angels (wait..! is that a snake belt? A clue...)' %}
+![Zaida and Evan near Coffs Jetty]({{http://tregeagle.com}}/images/photos/Z_Ev_coffs-jetty.jpg)
+
+![Cheri and Zaida down Sawty beach]({{http://tregeagle.com}}/images/photos/Z_C_Sawty-beach.jpg)
+![Chest's out girls]({{http://tregeagle.com}}/images/photos/Z_C_chests-out-grls.jpg)
+
+![Charlie's Angels (wait..! is that a snake belt? A clue...)]({{http://tregeagle.com}}/images/photos/Z_R_C_Boambee-hdlnd.jpg)
 
 
-{% img /images/photos/Z_blowy.jpg 360 'Making Skippy happy' %}
-{% img /images/photos/Z_roo-love.jpg 360 'Boing! said zebedee' %}
+![Making Skippy happy]({{http://tregeagle.com}}/images/photos/Z_blowy.jpg)
+![Boing! said zebedee]({{http://tregeagle.com}}/images/photos/Z_roo-love.jpg )
 
-{% img /images/photos/Z_C_TZ_chips.jpg 360 'Hot chips after cycling to Arrawarra' %}
-{% img /images/photos/Z_C_surfclub.jpg 360 'Cheri and Zaida at the surf club' %}
+![Hot chips after cycling to Arrawarra]({{http://tregeagle.com}}/images/photos/Z_C_TZ_chips.jpg)
+![Cheri and Zaida at the surf club']({{http://tregeagle.com}}/images/photos/Z_C_surfclub.jpg)
 
-{% img /images/photos/Z_sawty-beach.jpg 720 'Zaida' %}
-{% img /images/photos/Z_Caravan-rain.jpg 720 '...and it rained' %}
+![Zaida]({{http://tregeagle.com}}/images/photos/Z_sawty-beach.jpg)
+![… and it rained]({{http://tregeagle.com}}/images/photos/Z_Caravan-rain.jpg)
 
-{% img /images/photos/TZ_1st-high-skool.jpg 360 'End of the Summer and off to high school' %}
-{% img /images/photos/Z_brekky.jpg 360 'Fruit, yoghurt and muesli - breakfast of champions' %}
+![End of the Summer and off to high school]({{http://tregeagle.com}}/images/photos/TZ_1st-high-skool.jpg)
+![Fruit, yoghurt and muesli - breakfast of champions]({{http://tregeagle.com}}/images/photos/Z_brekky.jpg)
 
 

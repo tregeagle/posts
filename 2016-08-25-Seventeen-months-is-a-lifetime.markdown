@@ -10,9 +10,5 @@ According to the <a href="https://web.archive.org/web/20010217164613/http://www.
 
 A lot has happened. In short I have left behind my previous life and found a new one. All the old reference points have been rearranged. I'll not dwell on it, you can figure it out.
 
-
-<a href="http://microblog.ourcoffs.org.au/conversation/171943"><img alt="Red Wedge 1918" src="images/pictures/redwedge.jpg"></a>
-
-
-
+![Red Wedge 1918]({{http://tregeagle.com}}images/pictures/redwedge.jpg)
 

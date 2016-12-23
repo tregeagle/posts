@@ -7,14 +7,16 @@ categories: Pals
 ---
 CJ was a friend of mine who died of old age. I say old age but the hospital would tell you it was stroke. CJ would have told you it was because his body betrayed him.
 
-{% img /images/photos/CJ-amongst-the-bitou.jpg 360 'CJ in the beach reserve' %} {% img /images/photos/CJ-amongst-the-bitou-.jpg 360 'getting amongst the bitou bushes' %}
+![Jack/Cameron/John Lee cleaning up Murray's beach]({{ http://tregeagle.com }} /images/photos/CJ-amongst-the-bitou.jpg ) 
+
+![ getting amongst the bitou bushes]({{ http://tregeagle.com }} /images/photos/CJ-amongst-the-bitou-.jpg )
 
 After going for a run this morning I climbed down the 74 steps for a morning swim. The water was cold and the waves messy. I ducked, floated and dived before finally letting the waves wash me back in. As I walked back up the steps struggling with my damp t-shirt I thought about CJ. He loved Murrays beach, he pulled out the bitou bushes, to give the native plants a chance, and he picked up the rubbish people left behind. He planted grass and pandanaus palms to stabilise the sand dunes, he wrote many lovely poems about his 'ancient beach'. 
 
 I hope his family won't mind if I share one here:
 
 > __My Ancient Beach__
-> 
+>
 > The over-arching vault of peerless blue sky.  
 > The metamorphic tongue of  blackened rock  
 > lancing the beach of spangling brightness  
@@ -23,7 +25,7 @@ I hope his family won't mind if I share one here:
 > The pineappled pandanus standing stark  
 > its roots tracking nutrients and water  
 > as it leaches back to the sea.   
-> 
+>
 > Crackling waves kiss the beach today  
 > swirling round the polished pebbles  
 > which I sample for my Shinto garden.  
@@ -34,7 +36,7 @@ I hope his family won't mind if I share one here:
 > pulling out weeds and starting out   
 > a host of young pandanus   
 > to reach out and touch the sky.  
->                                 
+> ​                                
 > CJ  
-> 
+>
 

@@ -15,7 +15,11 @@ Eventually I saw the error of my ways and quit my job and moved to the beach and
 
 I look/ed like this on a good day:
 
-{% img /images/avatars/ruben-courier-1993.jpg 420 'Ruben in 1993, when I worked for Courier Systems' 'On my old BMW when I worked for Courier Systems back in the 90s' %}{% img /images/avatars/ruben-helo.png 360 'Ruben in 2014' 'Wishing I had my own helicopter' %}
+
+![Ruben in 1993, when I worked for Courier Systems - On my old BMW when I worked for Courier Systems back in the 90s]({{ http://tregeagle.com }}/images/avatars/ruben-courier-1993.jpg)
+![Wishing I had my own helicopter]({{ http://tregeagle.com }}/images/avatars/ruben-helo.png)
+![My helpful screenshot]({{ site.url }}/assets/screenshot.jpg)
+![Ruben in 2014, Wishing I had my own helicopter]({{ http://tregeagle.com }}/images/avatars/ruben-helo.png)
 
 I am currently at the end of my second year of a nursing degree. I have a break over the summer which is why I have time to piddle about with this stuff. I work as a retained firefighter. My spare time is spent hanging out with my family, chatting with my pal [MJD](http://mjd.id.au) and other stuff.
 
